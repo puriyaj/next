@@ -1,0 +1,1 @@
+Leishe is a website for selling carpets. I worked on the frontend of this project and provided some assistance with authentication. It was created using ***HTML*** and ***CSS***.
